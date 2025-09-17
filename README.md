@@ -10,7 +10,7 @@ The main objective is to perform data cleaning, exploratory data analysis (EDA),
 - Jupyter Notebook
 - Excel/CSV (Data Storage)
 
---
+---
 
 🔑 **Process**
 
@@ -29,7 +29,7 @@ The main objective is to perform data cleaning, exploratory data analysis (EDA),
 - Strategic segment outperforms on an average per-customer basis (big deals).
 - Discounts do not significantly increase Sales or Quantity, but they reduce Profit across all segments.
 
---
+---
 
 👨‍💻 **Author**
 
