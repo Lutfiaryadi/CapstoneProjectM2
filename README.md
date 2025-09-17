@@ -4,13 +4,15 @@ Hello! My name is Lutfi Aryadi Sukmono.
 This is my second Capstone Project as Student at Purwadhika Digital Technology School, focuses on analyzing SaaS (Software as a Service) sales data from 2020 to 2023.
 The main objective is to perform data cleaning, exploratory data analysis (EDA), and visualization to gain insights into Sales, Profit, Quantity, Discount, and Customer Segmentation.
 
-🛠️ Tools & Libraries
-Python (Pandas, NumPy)
-Matplotlib & Seaborn (Visualization)
-Jupyter Notebook
-Excel/CSV (Data Storage)
+🛠️ **Tools & Libraries**
+- Python (Pandas, NumPy)
+- Matplotlib & Seaborn (Visualization)
+- Jupyter Notebook
+- Excel/CSV (Data Storage)
 
-🔑 Process
+--
+
+🔑 **Process**
 
 1. Data Understanding
 - Explore dataset structure (Row ID, Order ID, Order Date, Customer, Segment, Sales, Quantity, Profit, Discount, etc.).
@@ -27,6 +29,8 @@ Excel/CSV (Data Storage)
 - Strategic segment outperforms on an average per-customer basis (big deals).
 - Discounts do not significantly increase Sales or Quantity, but they reduce Profit across all segments.
 
-👨‍💻 Author
+--
+
+👨‍💻 **Author**
 
 This project was created by me as part of the Purwadhika Data Analysis Capstone Project.
